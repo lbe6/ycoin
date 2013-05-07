@@ -1,5 +1,5 @@
 
-NovaCoin official development tree
+Ycoin based on NovaCoin.  
 
 NovaCoin - a hybrid scrypt PoW + PoS based cryptocurrency.
 
